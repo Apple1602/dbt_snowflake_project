@@ -16,3 +16,5 @@ dbt - Data Transformation
 Snowflake - Data Warehousing
 
 Airflow - Orchestration
+
+And AWS Tools
