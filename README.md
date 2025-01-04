@@ -17,4 +17,3 @@ Snowflake - Data Warehousing
 
 Airflow - Orchestration
 
-And AWS Tools
